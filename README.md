@@ -25,6 +25,17 @@
 8. Запустите анализатор повторно — проверьте, что QG пройдены успешно.
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
 
+
+### Ответы:
+
+**Скриншоты:**
+
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_15-20-08.png)    
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_15-40-20.png)    
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_15-40-41.png)
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_15-42-52.png)        
+
+
 ## Знакомство с Nexus
 
 ### Основная часть
@@ -40,6 +51,17 @@
 2. В него же загрузите такой же артефакт, но с version: 8_102.
 3. Проверьте, что все файлы загрузились успешно.
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
+
+
+### Ответы:
+
+**Скриншоты:**
+
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_15-59-18.png)    
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_17-22-01.png)
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_17-23-54.png)    
+
+[maven-metadata.xml](https://github.com/bonanzza-web/cicd/blob/main/files/maven-metadata.xml)
 
 ### Знакомство с Maven
 
@@ -57,6 +79,18 @@
 2. Запустите команду `mvn package` в директории с `pom.xml`, ожидайте успешного окончания.
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
 4. В ответе пришлите исправленный файл `pom.xml`.
+
+
+### Ответы:
+
+**Скриншоты:**
+
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_17-28-50.png)    
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_17-41-02.png)
+![alt text](https://github.com/bonanzza-web/cicd/blob/main/screens/2023-08-18_17-53-13.png)    
+
+
+[pom.xml](https://github.com/bonanzza-web/cicd/blob/main/files/pom.xml)
 
 ---
 
